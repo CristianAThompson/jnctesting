@@ -1,4 +1,4 @@
-baseURL = "http://CristianAThompson.github.io/jnctesting"
+baseURL = "https://cristianathompson.github.io/jnctesting/"
 languageCode = "en-us"
 title = "JNCTech"
 staticDir = ["static"]
