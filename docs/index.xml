@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JNCTech</title>
+    <link>http://CristianAThompson.github.io/jnctesting/</link>
+    <description>Recent content on JNCTech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://CristianAThompson.github.io/jnctesting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://CristianAThompson.github.io/jnctesting/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://CristianAThompson.github.io/jnctesting/contact/</guid>
+      <description> Contact Home Contact      Thanks for reaching out, we will be in touch soon.   Address 2-133 Queen StreetCharlottetown, PE C1A-4B3
+  Phone Support: +1-902-201-2912
+  Email Support: info@jnctech.ca
+  Have a question or comment? Leave us a message using the contact form and a representative will contact you as soon as possible.
+        Send Now          </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://CristianAThompson.github.io/jnctesting/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://CristianAThompson.github.io/jnctesting/home/</guid>
+      <description>Helping your business
+build and grow  We bring years of IT experience to help streamline your business   Got Data?  Lets work together to make your data work for you
+with a custom reporting solution.  Learn More   Work faster.  Work smarter.  Talk to us today about a custom integration between the tools you already use and love.   &amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/div&amp;gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://CristianAThompson.github.io/jnctesting/jobs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://CristianAThompson.github.io/jnctesting/jobs/</guid>
+      <description>.job-posting-details dd{ padding-bottom:5px; }   Jobs Home Jobs      Thanks for your submission, we will be in touch soon.  JNC Tech is always looking for ambitious and talented technical individuals.
+ Even if we are not actively hiring, we believe it&#39;s never a bad idea to meet new people. We are looking to meet people with skills in web application development, databases, mobile application development or managing cloud infrastructure.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://CristianAThompson.github.io/jnctesting/services/businesssoftware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://CristianAThompson.github.io/jnctesting/services/businesssoftware/</guid>
+      <description>Business Software Home Services Business Software       Custom Solutions  Need specialized software tools for your industry? Do you have an inhouse application that needs updated with new features? We can work with you to design and build custom systems to solve your business problems. If your business already has custom software built, we can help bring it back to life with new features and modern interfaces.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://CristianAThompson.github.io/jnctesting/services/cloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://CristianAThompson.github.io/jnctesting/services/cloud/</guid>
+      <description>Cloud Services Home Services Cloud Services         Always Accessible  Moving infrastruture to the cloud can sometimes be a smart business move. Cloud infrastruture allows for higher uptime, higher availability, ease of backups and ease of scaleability. It can also be a more affordable solution than purchasing new hardware and licencing in many cases. JNC Tech has experience with all major cloud service providers including Amazon Web Services, Microsoft Azure and Google Cloud.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://CristianAThompson.github.io/jnctesting/services/customintegrations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://CristianAThompson.github.io/jnctesting/services/customintegrations/</guid>
+      <description>Custom Integrations Home Services Custom Integrations         Connect Anything  If you are a tech savvy business, chances are you are using dozens of software tools to make your business work. Do you ever wish that you could make these tools talk to each other? That&#39;s exactly what a custom integration from JNC Tech can do for you. We use existing tools and in-house know-how to help businesses connect all of their favorite tools into one comprehensive solution.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://CristianAThompson.github.io/jnctesting/services/dashboards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://CristianAThompson.github.io/jnctesting/services/dashboards/</guid>
+      <description>Dashboards &amp;amp; Reports Home Services Dashboards &amp;amp; Reports       Data at a Glance  Many businesses already have the core data and metrics that their day to day activities rely on. What they don&#39;t have is a single place they can go to view this data. A dashboard is a collection of graphs, tables, and widgets that gives you the ability to quickly digest all crucial business data.</description>
+    </item>
+    
+  </channel>
+</rss>

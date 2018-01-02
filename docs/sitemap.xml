@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://CristianAThompson.github.io/jnctesting/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://CristianAThompson.github.io/jnctesting/home/</loc>
+  </url>
+  
+  <url>
+    <loc>http://CristianAThompson.github.io/jnctesting/jobs/</loc>
+  </url>
+  
+  <url>
+    <loc>http://CristianAThompson.github.io/jnctesting/services/businesssoftware/</loc>
+  </url>
+  
+  <url>
+    <loc>http://CristianAThompson.github.io/jnctesting/services/cloud/</loc>
+  </url>
+  
+  <url>
+    <loc>http://CristianAThompson.github.io/jnctesting/services/customintegrations/</loc>
+  </url>
+  
+  <url>
+    <loc>http://CristianAThompson.github.io/jnctesting/services/dashboards/</loc>
+  </url>
+  
+  <url>
+    <loc>http://CristianAThompson.github.io/jnctesting/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://CristianAThompson.github.io/jnctesting/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://CristianAThompson.github.io/jnctesting/services/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://CristianAThompson.github.io/jnctesting/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
