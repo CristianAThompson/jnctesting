@@ -1,5 +1,5 @@
 ---
-type: page
+type: services
 ---
 
 <section class="breadcrumb-wrap">
