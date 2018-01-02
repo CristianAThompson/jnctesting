@@ -1,0 +1,4 @@
+baseURL = "http://jnctech.ca/"
+languageCode = "en-us"
+title = "JNCTech"
+staticDir = ["static"]
