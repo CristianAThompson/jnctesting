@@ -1,5 +1,6 @@
 ---
 type: page
+format: html
 ---
 <!-- Slider -->
 <div class="tp-banner-container">
@@ -192,17 +193,17 @@ type: page
                 </p>
             </div>
             <div class="col-sm-7">
-<form action="https://liveformhq.com/form/abb5fc6f-16db-479c-9ce0-658f752979f2" class="requestform" id="book-meeting-form" method="post">                    <p class="author">
+            <form action="https://liveformhq.com/form/abb5fc6f-16db-479c-9ce0-658f752979f2" class="requestform" id="book-meeting-form" method="post">
+                    <p class="author">
                         <label for="discuss">How can we help?</label>
-
                         <select id="Subject" name="Subject" required="required"><option value="business_software">Business Software</option>
-<option value="custom_integrations">Custom Integrations</option>
-<option value="dashboard_reports">Dashboards &amp; Reports</option>
-<option value="cloud_solutions">Cloud Solutions</option>
-<option value="mobile_applications">Mobile Applications</option>
-<option value="web_sites">Web Sites</option>
-<option value="other">Other</option>
-</select>
+                                            <option value="custom_integrations">Custom Integrations</option>
+                                            <option value="dashboard_reports">Dashboards &amp; Reports</option>
+                                            <option value="cloud_solutions">Cloud Solutions</option>
+                                            <option value="mobile_applications">Mobile Applications</option>
+                                            <option value="web_sites">Web Sites</option>
+                                            <option value="other">Other</option>
+                        </select>
                     </p>
                     <p class="name">
                         <label for="name">Your name*</label>
@@ -216,10 +217,10 @@ type: page
                         <label for="discuss">Your email*</label>
                         <input id="Email" name="Email" required="required" type="text" value="" />
                     </p>
-                    <p style="width:98%">
+                    <p style="width:100%">
                         <label for="discuss">Comments</label>
                         <textarea cols="20" id="Notes" name="Notes" rows="2" style="height:100px">
-</textarea>
+                        </textarea>
                     </p>
                     <p class="form-submit" style="float:left">
                         <input name="submit" type="submit" value="Submit" id="book-meeting-submit">
