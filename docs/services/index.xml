@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on JNCTech</title>
-    <link>https://cristianathompson.github.io/jnctesting/services/</link>
+    <link>https://cristianathompson.github.io/services/</link>
     <description>Recent content in Services on JNCTech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://cristianathompson.github.io/jnctesting/services/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cristianathompson.github.io/services/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://cristianathompson.github.io/jnctesting/services/businesssoftware/</link>
+      <link>https://cristianathompson.github.io/services/businesssoftware/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cristianathompson.github.io/jnctesting/services/businesssoftware/</guid>
+      <guid>https://cristianathompson.github.io/services/businesssoftware/</guid>
       <description>Business Software Home Services Business Software       Custom Solutions  Need specialized software tools for your industry? Do you have an inhouse application that needs updated with new features? We can work with you to design and build custom systems to solve your business problems. If your business already has custom software built, we can help bring it back to life with new features and modern interfaces.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://cristianathompson.github.io/jnctesting/services/cloud/</link>
+      <link>https://cristianathompson.github.io/services/cloud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cristianathompson.github.io/jnctesting/services/cloud/</guid>
+      <guid>https://cristianathompson.github.io/services/cloud/</guid>
       <description>Cloud Services Home Services Cloud Services         Always Accessible  Moving infrastruture to the cloud can sometimes be a smart business move. Cloud infrastruture allows for higher uptime, higher availability, ease of backups and ease of scaleability. It can also be a more affordable solution than purchasing new hardware and licencing in many cases. JNC Tech has experience with all major cloud service providers including Amazon Web Services, Microsoft Azure and Google Cloud.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://cristianathompson.github.io/jnctesting/services/customintegrations/</link>
+      <link>https://cristianathompson.github.io/services/customintegrations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cristianathompson.github.io/jnctesting/services/customintegrations/</guid>
+      <guid>https://cristianathompson.github.io/services/customintegrations/</guid>
       <description>Custom Integrations Home Services Custom Integrations         Connect Anything  If you are a tech savvy business, chances are you are using dozens of software tools to make your business work. Do you ever wish that you could make these tools talk to each other? That&#39;s exactly what a custom integration from JNC Tech can do for you. We use existing tools and in-house know-how to help businesses connect all of their favorite tools into one comprehensive solution.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://cristianathompson.github.io/jnctesting/services/dashboards/</link>
+      <link>https://cristianathompson.github.io/services/dashboards/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cristianathompson.github.io/jnctesting/services/dashboards/</guid>
+      <guid>https://cristianathompson.github.io/services/dashboards/</guid>
       <description>Dashboards &amp;amp; Reports Home Services Dashboards &amp;amp; Reports       Data at a Glance  Many businesses already have the core data and metrics that their day to day activities rely on. What they don&#39;t have is a single place they can go to view this data. A dashboard is a collection of graphs, tables, and widgets that gives you the ability to quickly digest all crucial business data.</description>
     </item>
     
