@@ -1,4 +1,5 @@
-baseURL = "https://cristianathompson.github.io/"
+baseURL = ""
+relativeurls = true
 languageCode = "en-us"
 title = "JNCTech"
 staticDir = ["static"]
