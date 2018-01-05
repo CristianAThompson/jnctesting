@@ -1,6 +1,0 @@
-baseURL = ""
-relativeurls = true
-languageCode = "en-us"
-title = "JNCTech"
-staticDir = ["static"]
-publishDir = "docs"
